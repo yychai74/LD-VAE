@@ -46,5 +46,6 @@ and Teng, Chong},
 title={Compositional Generalization for Multi-Label Text Classification: A Data-Augmentation Approach}, 
 volume={38}, 
 year={2024},
+journal={Proceedings of the AAAI Conference on Artificial Intelligence},
 pages={17727-17735}}
 ```
