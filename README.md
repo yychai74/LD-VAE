@@ -28,7 +28,7 @@ sh train_IMDB.sh
 ```
 
 The experiments for the SemEval, AAPD, and IMDB datasets are estimated to respectively take approximately 40 minutes, 8 hours, and more than 12 hours, when using a single RTX4090 GPU for training.
-Using 1 RTX 3090 may double the training time :).
+Using single RTX3090 GPU may double the training time :).
 
 ## 5. Ciation
 
