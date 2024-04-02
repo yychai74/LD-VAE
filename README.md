@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## 3. Dataset
-We provide our compositional data split and estimate label composition distribution by GPT2 in `\data` folder. You can train your own label generator on support with GPT2.
+We provide our compositional data split and estimate label composition distribution by GPT2 in `data` folder. You can train your own label generator on support with GPT2.
 
 ## 4. Training
 
