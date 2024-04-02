@@ -1,0 +1,7 @@
+transformers==4.21.3
+adapter-transformers==3.2.1
+pytorch_lightning==1.9.1
+scikit-learn==1.2.2
+setuptools==58.0.4
+pandas==2.0.2
+numpy==1.24.3
