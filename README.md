@@ -1,5 +1,5 @@
 # Compositional Generalization for Multi-Label Text Classification: A Data-Augmentation Approach
-This is the source code for AAAI 2024 paper: [Compositional Generalization for Multi-Label Text Classification: A Data-Augmentation Approach](https://ojs.aaai.org/index.php/AAAI/article/view/29725)
+This is the source code for AAAI 2024 paper: [Compositional Generalization for Multi-Label Text Classification: A Data-Augmentation Approach](https://arxiv.org/abs/2312.11276)
 ## 1. Environments
 
 ```
